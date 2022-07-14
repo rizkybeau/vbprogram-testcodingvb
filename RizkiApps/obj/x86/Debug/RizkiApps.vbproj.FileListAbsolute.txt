@@ -1,0 +1,12 @@
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\RizkiApps\RizkiApps\bin\Debug\RizkiApps.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\RizkiApps\RizkiApps\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\RizkiApps\RizkiApps\obj\x86\Debug\WindowsApplication1.inputdata.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\RizkiApps\RizkiApps\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\RizkiApps\RizkiApps\obj\x86\Debug\RizkiApps.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\RizkiApps\RizkiApps\bin\Debug\Database1.sdf
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\RizkiApps\RizkiApps\bin\Debug\RizkiApps.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\RizkiApps\RizkiApps\bin\Debug\RizkiApps.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\RizkiApps\RizkiApps\bin\Debug\RizkiApps.xml
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\RizkiApps\RizkiApps\obj\x86\Debug\RizkiApps.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\RizkiApps\RizkiApps\obj\x86\Debug\RizkiApps.xml
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\RizkiApps\RizkiApps\obj\x86\Debug\RizkiApps.pdb
