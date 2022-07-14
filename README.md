@@ -9,10 +9,12 @@
 3. tinggal tiru dan selesai
 
 # komponen2 sql server
+
+
+
 Imports System.Data.SqlClient
 Public conn As New SqlConnection 'konek ke database
 Public str As String = "Data Source=DESKTOP-LMEAVP1\ASUS;Initial Catalog=Students;Integrated Security=True" 'catalog itu database anda
-
 conn.ConnectionString = str 'step ini wajib
             conn.Open() 'open koneksi
 
